@@ -1,6 +1,6 @@
 [submodule "src/Infrastructure"]
 	path = src/Infrastructure
-	url = https://github.com/RallySmith/renode-infrastructure.git
+	url = git@github.com:RallySmith/renode-infrastructure.git
 	branch = master
 	update = merge
 [submodule "lib/termsharp"]
